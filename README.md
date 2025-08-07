@@ -1,2 +1,2 @@
 # SM4-optimization
-SM4 algorithm software implementation and optimization
+Software implementation and optimization of SM4 algorithm, including T-table, AESNI, GFNI, VPROLD optimizations, and SM4-GCM mode.
